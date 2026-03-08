@@ -36,11 +36,7 @@ Downloads a minimal version of Python inside the project folder. Useful if you w
 
 1.  **Clone the repository**:
     ```bash
-<<<<<<< HEAD
     git clone <your-repo-url>
-=======
-    git clone <your-repo>
->>>>>>> 30bc0ba75a9925b10588866195f3e0c7f440cc3e
     cd Void-Exchange
     ```
 
@@ -105,7 +101,7 @@ Descarga una versión mínima de Python dentro de la carpeta del proyecto. Útil
 ## 🛠️ Instalación y Uso (Desarrollo)
 
 1.  **Clonar el repositorio**:
-.    ```bash
+    ```bash
     git clone <tu-url-del-repo>
     cd Void-Exchange
     ```
