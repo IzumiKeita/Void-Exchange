@@ -36,8 +36,8 @@ Downloads a minimal version of Python inside the project folder. Useful if you w
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repo>
-    cd market-waframe
+    git clone <your-repo-url>
+    cd Void-Exchange
     ```
 
 2.  **Run the Application (Windows)**:
@@ -50,6 +50,19 @@ Downloads a minimal version of Python inside the project folder. Useful if you w
 3.  **Access**:
     - Frontend: `http://localhost:5173`
     - Backend API: `http://localhost:5000`
+
+## ☁️ Git & Version Control
+
+This project comes with a pre-configured local Git repository.
+- **.gitignore**: Optimized to exclude virtual environments, build artifacts, and sensitive files.
+- **Branch**: `master` (default).
+
+To push to GitHub:
+```bash
+git remote add origin https://github.com/YOUR_USERNAME/Void-Exchange.git
+git branch -M main
+git push -u origin main
+```
 
 ---
 
@@ -89,8 +102,8 @@ Descarga una versión mínima de Python dentro de la carpeta del proyecto. Útil
 
 1.  **Clonar el repositorio**:
     ```bash
-    git clone <tu-repositorio>
-    cd market-waframe
+    git clone <tu-url-del-repo>
+    cd Void-Exchange
     ```
 
 2.  **Configurar Variables de Entorno**:
@@ -98,6 +111,25 @@ Descarga una versión mínima de Python dentro de la carpeta del proyecto. Útil
       ```bash
       cp .env.example .env
       ```
+    - Edita `.env` con tus claves API (si usas Gemini, etc.).
+
+3.  **Ejecutar la Aplicación**:
+    ```cmd
+    run.bat
+    ```
+
+## ☁️ Git y Control de Versiones
+
+Este proyecto incluye un repositorio Git local preconfigurado.
+- **.gitignore**: Optimizado para excluir entornos virtuales (`.venv`), artefactos de compilación y archivos sensibles.
+- **Rama**: `master` (por defecto).
+
+Para subir a GitHub:
+```bash
+git remote add origin https://github.com/TU_USUARIO/Void-Exchange.git
+git branch -M main
+git push -u origin main
+```
     - (Opcional) Si deseas usar PostgreSQL local, edita `.env` y descomenta la línea `DATABASE_URL`. Por defecto usará SQLite.
 
 3.  **Ejecutar la Aplicación (Windows)**:
