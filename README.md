@@ -37,7 +37,7 @@ Downloads a minimal version of Python inside the project folder. Useful if you w
 1.  **Clone the repository**:
     ```bash
     git clone <your-repo>
-    cd market-waframe
+    cd Void-Exchange
     ```
 
 2.  **Run the Application (Windows)**:
@@ -90,7 +90,7 @@ Descarga una versión mínima de Python dentro de la carpeta del proyecto. Útil
 1.  **Clonar el repositorio**:
     ```bash
     git clone <tu-repositorio>
-    cd market-waframe
+    cd Void-Exchange
     ```
 
 2.  **Configurar Variables de Entorno**:
