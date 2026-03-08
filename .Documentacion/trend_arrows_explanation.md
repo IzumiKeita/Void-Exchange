@@ -1,55 +1,55 @@
-# Explicación del Sistema de Tendencias (Flechas y Colores)
+# Trend System Explanation (Arrows and Colors)
 
-Este documento detalla la lógica técnica y funcional detrás de los indicadores de tendencia (flechas rojas y verdes) mostrados en el Dashboard y detalles de ítems.
+This document details the technical and functional logic behind the trend indicators (red and green arrows) displayed on the Dashboard and item details.
 
-## 1. Cálculo Matemático (`market_service.py`)
+## 1. Mathematical Calculation (`market_service.py`)
 
-La tendencia se calcula comparando el **precio promedio** del último registro disponible con el registro inmediatamente anterior en el historial de 48 horas.
+The trend is calculated by comparing the **average price** of the last available record with the immediately preceding record in the 48-hour history.
 
-La fórmula utilizada es:
+The formula used is:
 
 ```python
-trend = ((precio_actual - precio_anterior) / precio_anterior) * 100
+trend = ((current_price - previous_price) / previous_price) * 100
 ```
 
-- **precio_actual**: Precio promedio de la última hora registrada.
-- **precio_anterior**: Precio promedio de la hora anterior.
+- **current_price**: Average price of the last recorded hour.
+- **previous_price**: Average price of the previous hour.
 
-El resultado es un **porcentaje** que indica cuánto ha variado el precio.
+The result is a **percentage** indicating how much the price has varied.
 
-## 2. Representación Visual (`Dashboard.vue`)
+## 2. Visual Representation (`Dashboard.vue`)
 
-El sistema interpreta este porcentaje para mostrar flechas y colores:
+The system interprets this percentage to display arrows and colors:
 
-### A. Tendencia Positiva (Flecha Verde ▲)
-- **Condición**: El resultado es **mayor o igual a 0** ( `trend >= 0` ).
-- **Significado**: El precio del ítem ha **SUBIDO** (o se mantiene igual) respecto a la hora anterior.
-- **Interpretación para el Usuario**:
-  - **Para Vendedores**: Es un buen momento, el objeto vale más.
-  - **Para Compradores**: El objeto está encareciéndose.
+### A. Positive Trend (Green Arrow ▲)
+- **Condition**: The result is **greater than or equal to 0** (`trend >= 0`).
+- **Meaning**: The item price has **RISEN** (or remains the same) compared to the previous hour.
+- **User Interpretation**:
+  - **For Sellers**: It's a good time, the object is worth more.
+  - **For Buyers**: The object is getting more expensive.
 
-### B. Tendencia Negativa (Flecha Roja ▼)
-- **Condición**: El resultado es **negativo** ( `trend < 0` ).
-- **Significado**: El precio del ítem ha **BAJADO** respecto a la hora anterior.
-- **Interpretación para el Usuario**:
-  - **Para Vendedores**: El objeto está perdiendo valor.
-  - **Para Compradores**: Es una oportunidad de oferta, está más barato.
+### B. Negative Trend (Red Arrow ▼)
+- **Condition**: The result is **negative** (`trend < 0`).
+- **Meaning**: The item price has **FALLEN** compared to the previous hour.
+- **User Interpretation**:
+  - **For Sellers**: The object is losing value.
+  - **For Buyers**: It's a bidding opportunity, it's cheaper.
 
-## 3. Ejemplo Práctico
+## 3. Practical Example
 
-Si un Warframe "Rhino Prime Set":
-- Hora anterior valía: **100 pl**
-- Hora actual vale: **90 pl**
+If a Warframe "Rhino Prime Set":
+- Previous hour worth: **100 pl**
+- Current hour worth: **90 pl**
 
-Cálculo: `(90 - 100) / 100 * 100 = -10%`
+Calculation: `(90 - 100) / 100 * 100 = -10%`
 
-**Resultado en pantalla**:
-- **Flecha**: ▼ (Abajo)
-- **Color**: Rojo
-- **Valor**: -10%
-- **Lectura**: El precio ha caído un 10%.
+**On-screen Result**:
+- **Arrow**: ▼ (Down)
+- **Color**: Red
+- **Value**: -10%
+- **Reading**: The price has fallen by 10%.
 
-## 4. Notas Técnicas
-- Si no hay datos previos (es el primer registro), la tendencia es 0%.
-- El sistema redondea el porcentaje a 2 decimales.
-- Esta lógica se aplica consistentemente tanto en el Dashboard como en el Chat de IA para las recomendaciones.
+## 4. Technical Notes
+- If there is no previous data (it's the first record), the trend is 0%.
+- The system rounds the percentage to 2 decimal places.
+- This logic is applied consistently in both the Dashboard and the AI Chat for recommendations.
