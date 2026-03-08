@@ -1,0 +1,1045 @@
+{
+  "2025-12-26T14:00:00+00:00": [
+    {
+      "item_name": "Peine Ponzoñoso Prime",
+      "ducats": 390,
+      "credits": 210000,
+      "url_name": "primed_venomous_clip",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 38.5,
+          "trend": 2.67,
+          "volume": 5,
+          "min_price": 37,
+          "max_price": 40,
+          "avg_price": 38.5
+        },
+        "rank_max": {
+          "price": 120.0,
+          "trend": 0.84,
+          "volume": 6,
+          "min_price": 120,
+          "max_price": 120,
+          "avg_price": 120.0
+        }
+      }
+    },
+    {
+      "item_name": "Carga Incendiaria Prime",
+      "ducats": 350,
+      "credits": 175000,
+      "url_name": "primed_heated_charge",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 35.0,
+          "trend": -12.5,
+          "volume": 2,
+          "min_price": 35,
+          "max_price": 35,
+          "avg_price": 35.0
+        },
+        "rank_max": {
+          "price": 35.0,
+          "trend": -12.5,
+          "volume": 2,
+          "min_price": 35,
+          "max_price": 35,
+          "avg_price": 35.0
+        }
+      }
+    },
+    {
+      "item_name": "Agarre Rápido Prime",
+      "ducats": 375,
+      "credits": 120000,
+      "url_name": "primed_quickdraw",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 28.5,
+          "trend": -16.18,
+          "volume": 3,
+          "min_price": 25,
+          "max_price": 32,
+          "avg_price": 28.5
+        },
+        "rank_max": {
+          "price": 120.0,
+          "trend": 14.29,
+          "volume": 1,
+          "min_price": 120,
+          "max_price": 120,
+          "avg_price": 120.0
+        }
+      }
+    },
+    {
+      "item_name": "Quemarropa Prime",
+      "ducats": 300,
+      "credits": 110000,
+      "url_name": "primed_point_blank",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 39.0,
+          "trend": 13.04,
+          "volume": 4,
+          "min_price": 28,
+          "max_price": 50,
+          "avg_price": 39.0
+        },
+        "rank_max": {
+          "price": 39.0,
+          "trend": 13.04,
+          "volume": 4,
+          "min_price": 28,
+          "max_price": 50,
+          "avg_price": 39.0
+        }
+      }
+    },
+    {
+      "item_name": "Flujo Prime",
+      "ducats": 350,
+      "credits": 110000,
+      "url_name": "primed_flow",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 40.0,
+          "trend": 66.67,
+          "volume": 1,
+          "min_price": 40,
+          "max_price": 40,
+          "avg_price": 40.0
+        },
+        "rank_max": {
+          "price": 40.0,
+          "trend": 66.67,
+          "volume": 1,
+          "min_price": 40,
+          "max_price": 40,
+          "avg_price": 40.0
+        }
+      }
+    },
+    {
+      "item_name": "Manos Firmes Prime",
+      "ducats": 300,
+      "credits": 220000,
+      "url_name": "primed_steady_hands",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 38.5,
+          "trend": 1.32,
+          "volume": 2,
+          "min_price": 37,
+          "max_price": 40,
+          "avg_price": 38.5
+        },
+        "rank_max": {
+          "price": 38.5,
+          "trend": 1.32,
+          "volume": 2,
+          "min_price": 37,
+          "max_price": 40,
+          "avg_price": 38.5
+        }
+      }
+    },
+    {
+      "item_name": "Cañón Revestido De Rubedo Prime",
+      "ducats": 350,
+      "credits": 175000,
+      "url_name": "primed_rubedo_lined_barrel",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 37.0,
+          "trend": 13.85,
+          "volume": 1,
+          "min_price": 37,
+          "max_price": 37,
+          "avg_price": 37.0
+        },
+        "rank_max": {
+          "price": 37.0,
+          "trend": 13.85,
+          "volume": 1,
+          "min_price": 37,
+          "max_price": 37,
+          "avg_price": 37.0
+        }
+      }
+    },
+    {
+      "item_name": "Fulminación Prime",
+      "ducats": 350,
+      "credits": 175000,
+      "url_name": "primed_fulmination",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 33.5,
+          "trend": -15.19,
+          "volume": 7,
+          "min_price": 33,
+          "max_price": 34,
+          "avg_price": 33.5
+        },
+        "rank_max": {
+          "price": 33.5,
+          "trend": -15.19,
+          "volume": 7,
+          "min_price": 33,
+          "max_price": 34,
+          "avg_price": 33.5
+        }
+      }
+    },
+    {
+      "item_name": "Grakata Prisma",
+      "ducats": 610,
+      "credits": 100000,
+      "url_name": "prisma_grakata",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 40.0,
+        "trend": -15.79,
+        "volume": 2,
+        "min_price": 40,
+        "max_price": 40,
+        "avg_price": 40.0
+      }
+    },
+    {
+      "item_name": "Reliquia Axi V8",
+      "ducats": 125,
+      "credits": 55000,
+      "url_name": "axi_v8_relic",
+      "tradeable": true,
+      "category": "Reliquias",
+      "market_stats": {
+        "is_refined": true,
+        "refinements": [
+          "intact"
+        ],
+        "intact": {
+          "price": 8.0,
+          "trend": 0.0,
+          "volume": 2,
+          "min_price": 8,
+          "max_price": 8,
+          "avg_price": 8.0
+        }
+      }
+    },
+    {
+      "item_name": "Vastilok",
+      "ducats": 550,
+      "credits": 325000,
+      "url_name": "vastilok",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "price": 41.5,
+        "trend": -6.74,
+        "volume": 6,
+        "min_price": 33,
+        "max_price": 50,
+        "avg_price": 41.5
+      }
+    },
+    {
+      "item_name": "Halikar Fantasma",
+      "ducats": 450,
+      "credits": 350000,
+      "url_name": "halikar_wraith",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 60.0,
+        "trend": 3.45,
+        "volume": 1,
+        "min_price": 60,
+        "max_price": 60,
+        "avg_price": 60.0
+      }
+    },
+    {
+      "item_name": "Vericres",
+      "ducats": 410,
+      "credits": 200000,
+      "url_name": "vericres",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "price": 40.0,
+        "trend": -8.05,
+        "volume": 1,
+        "min_price": 40,
+        "max_price": 40,
+        "avg_price": 40.0
+      }
+    },
+    {
+      "item_name": "Contacto Total",
+      "ducats": 365,
+      "credits": 220000,
+      "url_name": "full_contact",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 5,
+        "rank_0": {
+          "price": 3.0,
+          "trend": -25.0,
+          "volume": 1,
+          "min_price": 3,
+          "max_price": 3,
+          "avg_price": 3.0
+        },
+        "rank_max": {
+          "price": 5.0,
+          "trend": -75.0,
+          "volume": 1,
+          "min_price": 5,
+          "max_price": 5,
+          "avg_price": 5.0
+        }
+      }
+    },
+    {
+      "item_name": "Reliquia Axi A2",
+      "ducats": 50,
+      "credits": 45000,
+      "url_name": "axi_a2_relic",
+      "tradeable": true,
+      "category": "Reliquias",
+      "market_stats": {
+        "is_refined": true,
+        "refinements": [
+          "intact"
+        ],
+        "intact": {
+          "price": 10.0,
+          "trend": 25.0,
+          "volume": 6,
+          "min_price": 10,
+          "max_price": 10,
+          "avg_price": 10.0
+        }
+      }
+    },
+    {
+      "item_name": "Combo De Furia",
+      "ducats": 300,
+      "credits": 115000,
+      "url_name": "combo_fury",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 5,
+        "rank_0": {
+          "price": 20.0,
+          "trend": -20.0,
+          "volume": 1,
+          "min_price": 20,
+          "max_price": 20,
+          "avg_price": 20.0
+        },
+        "rank_max": {
+          "price": 30.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 30,
+          "max_price": 30,
+          "avg_price": 30.0
+        }
+      }
+    },
+    {
+      "item_name": "Supra Vándalo",
+      "ducats": 500,
+      "credits": 275000,
+      "url_name": "supra_vandal",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 40.0,
+        "trend": 0.0,
+        "volume": 1,
+        "min_price": 40,
+        "max_price": 40,
+        "avg_price": 40.0
+      }
+    },
+    {
+      "item_name": "Ohma Prisma",
+      "ducats": 450,
+      "credits": 175000,
+      "url_name": "prisma_ohma",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 38.0,
+        "trend": 26.67,
+        "volume": 2,
+        "min_price": 36,
+        "max_price": 40,
+        "avg_price": 38.0
+      }
+    }
+  ],
+  "2026-02-06T14:00:00+00:00": [
+    {
+      "item_name": "Castiga Murmullos Prime",
+      "ducats": 375,
+      "credits": 130000,
+      "url_name": "primed_smite_the_murmur",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 26.5,
+          "trend": -8.62,
+          "volume": 4,
+          "min_price": 25,
+          "max_price": 28,
+          "avg_price": 26.5
+        },
+        "rank_max": {
+          "price": 105.0,
+          "trend": 5.0,
+          "volume": 3,
+          "min_price": 95,
+          "max_price": 115,
+          "avg_price": 105.0
+        }
+      }
+    },
+    {
+      "item_name": "Sacudida",
+      "ducats": 300,
+      "credits": 150000,
+      "url_name": "jolt",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 3,
+        "rank_0": {
+          "price": 21.0,
+          "trend": 0.0,
+          "volume": 35,
+          "min_price": 18,
+          "max_price": 24,
+          "avg_price": 21.0
+        },
+        "rank_max": {
+          "price": 23.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 23,
+          "max_price": 23,
+          "avg_price": 23.0
+        }
+      }
+    },
+    {
+      "item_name": "Mutación De Munición De Pistola Prime",
+      "ducats": 400,
+      "credits": 140000,
+      "url_name": "primed_pistol_ammo_mutation",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 30.0,
+          "trend": -6.25,
+          "volume": 4,
+          "min_price": 25,
+          "max_price": 35,
+          "avg_price": 30.0
+        },
+        "rank_max": {
+          "price": 90.0,
+          "trend": 19.21,
+          "volume": 1,
+          "min_price": 90,
+          "max_price": 90,
+          "avg_price": 90.0
+        }
+      }
+    },
+    {
+      "item_name": "Prova Vándalo",
+      "ducats": 410,
+      "credits": 250000,
+      "url_name": "prova_vandal",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 32.5,
+        "trend": -7.14,
+        "volume": 4,
+        "min_price": 30,
+        "max_price": 35,
+        "avg_price": 32.5
+      }
+    },
+    {
+      "item_name": "Alcance Helado Prime",
+      "ducats": 350,
+      "credits": 125000,
+      "url_name": "primed_chilling_grasp",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 22.0,
+          "trend": -12.0,
+          "volume": 9,
+          "min_price": 20,
+          "max_price": 24,
+          "avg_price": 22.0
+        },
+        "rank_max": {
+          "price": 22.0,
+          "trend": -12.0,
+          "volume": 9,
+          "min_price": 20,
+          "max_price": 24,
+          "avg_price": 22.0
+        }
+      }
+    },
+    {
+      "item_name": "Carniceros Dobles Prisma",
+      "ducats": 490,
+      "credits": 200000,
+      "url_name": "prisma_dual_cleavers",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 39.0,
+        "trend": 5.41,
+        "volume": 9,
+        "min_price": 33,
+        "max_price": 45,
+        "avg_price": 39.0
+      }
+    },
+    {
+      "item_name": "Skana Prisma",
+      "ducats": 510,
+      "credits": 175000,
+      "url_name": "prisma_skana",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 37.5,
+        "trend": -1.32,
+        "volume": 16,
+        "min_price": 35,
+        "max_price": 40,
+        "avg_price": 37.5
+      }
+    },
+    {
+      "item_name": "Reliquia Neo O1",
+      "ducats": 125,
+      "credits": 55000,
+      "url_name": "neo_o1_relic",
+      "tradeable": true,
+      "category": "Reliquias",
+      "market_stats": {
+        "is_refined": true,
+        "refinements": [
+          "intact"
+        ],
+        "intact": {
+          "price": 6.0,
+          "trend": -40.0,
+          "volume": 12,
+          "min_price": 6,
+          "max_price": 6,
+          "avg_price": 6.0
+        }
+      }
+    },
+    {
+      "item_name": "Grinlok Prisma",
+      "ducats": 500,
+      "credits": 220000,
+      "url_name": "prisma_grinlok",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 39.5,
+        "trend": -7.06,
+        "volume": 7,
+        "min_price": 35,
+        "max_price": 44,
+        "avg_price": 39.5
+      }
+    },
+    {
+      "item_name": "Limpieza De Orokin Prime",
+      "ducats": 350,
+      "credits": 140000,
+      "url_name": "primed_cleanse_corrupted",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 23.0,
+          "trend": -22.03,
+          "volume": 2,
+          "min_price": 21,
+          "max_price": 25,
+          "avg_price": 23.0
+        },
+        "rank_max": {
+          "price": 87.5,
+          "trend": -39.66,
+          "volume": 3,
+          "min_price": 75,
+          "max_price": 100,
+          "avg_price": 87.5
+        }
+      }
+    }
+  ],
+  "2026-02-20T14:00:00+00:00": [
+    {
+      "item_name": "Cadena De Munición Prime",
+      "ducats": 390,
+      "credits": 210000,
+      "url_name": "primed_ammo_chain",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 34.5,
+          "trend": 9.52,
+          "volume": 8,
+          "min_price": 30,
+          "max_price": 39,
+          "avg_price": 34.5
+        },
+        "rank_max": {
+          "price": 76.0,
+          "trend": -36.67,
+          "volume": 2,
+          "min_price": 72,
+          "max_price": 80,
+          "avg_price": 76.0
+        }
+      }
+    },
+    {
+      "item_name": "Chamuscar",
+      "ducats": 300,
+      "credits": 150000,
+      "url_name": "scorch",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 3,
+        "rank_0": {
+          "price": 10.0,
+          "trend": 11.11,
+          "volume": 1,
+          "min_price": 10,
+          "max_price": 10,
+          "avg_price": 10.0
+        },
+        "rank_max": {
+          "price": 10.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 10,
+          "max_price": 10,
+          "avg_price": 10.0
+        }
+      }
+    },
+    {
+      "item_name": "Agarre Rápido Prime",
+      "ducats": 375,
+      "credits": 120000,
+      "url_name": "primed_quickdraw",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 10,
+        "rank_0": {
+          "price": 25.5,
+          "trend": -10.53,
+          "volume": 4,
+          "min_price": 23,
+          "max_price": 28,
+          "avg_price": 25.5
+        },
+        "rank_max": {
+          "price": 130.0,
+          "trend": 13.04,
+          "volume": 1,
+          "min_price": 130,
+          "max_price": 130,
+          "avg_price": 130.0
+        }
+      }
+    },
+    {
+      "item_name": "Mutilar",
+      "ducats": 375,
+      "credits": 150000,
+      "url_name": "maim",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 5,
+        "rank_0": {
+          "price": 9.0,
+          "trend": 0.0,
+          "volume": 2,
+          "min_price": 9,
+          "max_price": 9,
+          "avg_price": 9.0
+        },
+        "rank_max": {
+          "price": 20.0,
+          "trend": 185.71,
+          "volume": 1,
+          "min_price": 20,
+          "max_price": 20,
+          "avg_price": 20.0
+        }
+      }
+    },
+    {
+      "item_name": "Cartucho Eléctrico",
+      "ducats": 300,
+      "credits": 150000,
+      "url_name": "shell_shock",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 3,
+        "rank_0": {
+          "price": 20.0,
+          "trend": -4.76,
+          "volume": 2,
+          "min_price": 20,
+          "max_price": 20,
+          "avg_price": 20.0
+        },
+        "rank_max": {
+          "price": 21.0,
+          "trend": -12.5,
+          "volume": 2,
+          "min_price": 20,
+          "max_price": 22,
+          "avg_price": 21.0
+        }
+      }
+    },
+    {
+      "item_name": "Quemarropa Prime",
+      "ducats": 300,
+      "credits": 110000,
+      "url_name": "primed_point_blank",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 17.5,
+          "trend": -20.45,
+          "volume": 5,
+          "min_price": 15,
+          "max_price": 20,
+          "avg_price": 17.5
+        },
+        "rank_max": {
+          "price": 17.5,
+          "trend": -20.45,
+          "volume": 5,
+          "min_price": 15,
+          "max_price": 20,
+          "avg_price": 17.5
+        }
+      }
+    },
+    {
+      "item_name": "Cartucho Cargado Prime",
+      "ducats": 350,
+      "credits": 200000,
+      "url_name": "primed_charged_shell",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 24.0,
+          "trend": -9.43,
+          "volume": 2,
+          "min_price": 20,
+          "max_price": 28,
+          "avg_price": 24.0
+        },
+        "rank_max": {
+          "price": 24.0,
+          "trend": -9.43,
+          "volume": 2,
+          "min_price": 20,
+          "max_price": 28,
+          "avg_price": 24.0
+        }
+      }
+    },
+    {
+      "item_name": "Contacto Total",
+      "ducats": 365,
+      "credits": 220000,
+      "url_name": "full_contact",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 5,
+        "rank_0": {
+          "price": 4.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 4,
+          "max_price": 4,
+          "avg_price": 4.0
+        },
+        "rank_max": {
+          "price": 8.0,
+          "trend": -38.46,
+          "volume": 1,
+          "min_price": 8,
+          "max_price": 8,
+          "avg_price": 8.0
+        }
+      }
+    },
+    {
+      "item_name": "Transformador Mórfico Prime",
+      "ducats": 350,
+      "credits": 150000,
+      "url_name": "primed_morphic_transformer",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 25.0,
+          "trend": -5.66,
+          "volume": 3,
+          "min_price": 20,
+          "max_price": 30,
+          "avg_price": 25.0
+        },
+        "rank_max": {
+          "price": 25.0,
+          "trend": -5.66,
+          "volume": 3,
+          "min_price": 20,
+          "max_price": 30,
+          "avg_price": 25.0
+        }
+      }
+    },
+    {
+      "item_name": "Reliquia Neo O1",
+      "ducats": 125,
+      "credits": 55000,
+      "url_name": "neo_o1_relic",
+      "tradeable": true,
+      "category": "Reliquias",
+      "market_stats": {
+        "is_refined": true,
+        "refinements": [
+          "intact"
+        ],
+        "intact": {
+          "price": 6.0,
+          "trend": 20.0,
+          "volume": 3,
+          "min_price": 6,
+          "max_price": 6,
+          "avg_price": 6.0
+        }
+      }
+    },
+    {
+      "item_name": "Decuriones Dobles Prisma",
+      "ducats": 525,
+      "credits": 175000,
+      "url_name": "prisma_dual_decurions",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 50.0,
+        "trend": 5.26,
+        "volume": 9,
+        "min_price": 45,
+        "max_price": 55,
+        "avg_price": 50.0
+      }
+    },
+    {
+      "item_name": "Halikar Fantasma",
+      "ducats": 450,
+      "credits": 350000,
+      "url_name": "halikar_wraith",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 43.0,
+        "trend": 43.33,
+        "volume": 5,
+        "min_price": 36,
+        "max_price": 50,
+        "avg_price": 43.0
+      }
+    },
+    {
+      "item_name": "Fulminación Prime",
+      "ducats": 350,
+      "credits": 175000,
+      "url_name": "primed_fulmination",
+      "tradeable": true,
+      "category": "Mods",
+      "market_stats": {
+        "is_ranked": true,
+        "min_rank": 0,
+        "max_rank": 0,
+        "rank_0": {
+          "price": 60.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 60,
+          "max_price": 60,
+          "avg_price": 60.0
+        },
+        "rank_max": {
+          "price": 60.0,
+          "trend": 0.0,
+          "volume": 1,
+          "min_price": 60,
+          "max_price": 60,
+          "avg_price": 60.0
+        }
+      }
+    },
+    {
+      "item_name": "Vastilok",
+      "ducats": 550,
+      "credits": 325000,
+      "url_name": "vastilok",
+      "tradeable": true,
+      "category": "Otros (Tradeables)",
+      "market_stats": {
+        "price": 39.0,
+        "trend": -17.02,
+        "volume": 3,
+        "min_price": 33,
+        "max_price": 45,
+        "avg_price": 39.0
+      }
+    },
+    {
+      "item_name": "Ohma Prisma",
+      "ducats": 450,
+      "credits": 175000,
+      "url_name": "prisma_ohma",
+      "tradeable": true,
+      "category": "Armas",
+      "market_stats": {
+        "price": 37.0,
+        "trend": -7.5,
+        "volume": 4,
+        "min_price": 25,
+        "max_price": 49,
+        "avg_price": 37.0
+      }
+    }
+  ]
+}

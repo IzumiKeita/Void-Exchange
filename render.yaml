@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: warframe-market-monitor
+    env: python
+    buildCommand: "chmod +x build.sh && ./build.sh"
+    startCommand: "gunicorn 'backend:create_app()'"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: NODE_VERSION
+        value: 20.10.0
