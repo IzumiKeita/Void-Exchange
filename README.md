@@ -105,12 +105,8 @@ Descarga una versión mínima de Python dentro de la carpeta del proyecto. Útil
 ## 🛠️ Instalación y Uso (Desarrollo)
 
 1.  **Clonar el repositorio**:
-    ```bash
-<<<<<<< HEAD
+.    ```bash
     git clone <tu-url-del-repo>
-=======
-    git clone <tu-repositorio>
->>>>>>> 30bc0ba75a9925b10588866195f3e0c7f440cc3e
     cd Void-Exchange
     ```
 
